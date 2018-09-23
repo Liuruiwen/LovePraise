@@ -75,7 +75,7 @@ public class PraiseLayout extends RelativeLayout {
         //设置图片资源(随机数)
         imgPraise.setImageResource(R.drawable.timg);
         LayoutParams params = new LayoutParams(
-                400, 400);
+                200, 200);
 //        RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(
 //                ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT);
         params.setMargins((int) mX,(int)mY,0,0);
